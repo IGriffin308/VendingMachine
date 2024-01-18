@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VendingMachine/static/css/main.8fa57455.css",
+    "main.js": "/VendingMachine/static/js/main.6377ccd9.js",
+    "static/js/787.d04eac6b.chunk.js": "/VendingMachine/static/js/787.d04eac6b.chunk.js",
+    "static/media/vendingmachine.webp": "/VendingMachine/static/media/vendingmachine.bb3242eea28471bfcf4c.webp",
+    "static/media/soda.png": "/VendingMachine/static/media/soda.e1da45ff5db03a5b3344.png",
+    "static/media/mustard.png": "/VendingMachine/static/media/mustard.c7b9367621878559a835.png",
+    "static/media/chip.png": "/VendingMachine/static/media/chip.0c5d24921edeb00ffdfe.png",
+    "index.html": "/VendingMachine/index.html",
+    "main.8fa57455.css.map": "/VendingMachine/static/css/main.8fa57455.css.map",
+    "main.6377ccd9.js.map": "/VendingMachine/static/js/main.6377ccd9.js.map",
+    "787.d04eac6b.chunk.js.map": "/VendingMachine/static/js/787.d04eac6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa57455.css",
+    "static/js/main.6377ccd9.js"
+  ]
+}
